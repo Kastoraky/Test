@@ -15,3 +15,4 @@ APPLY Changes to Collaboration MAIN BRANCH
 13. Close all windows and go to GIT directory.
 14. Right click and Puch Collaboration Main Branch.
 15. GO to Synapse Collaboration Main Branch and Publish the changes.
+16.Test Successful..........
