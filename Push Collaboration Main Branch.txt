@@ -1,0 +1,17 @@
+APPLY Changes to Collaboration MAIN BRANCH
+
+1. GO to https://git.t3.daimlertruck.com/ and Make Pull Request
+2. Create a Pull Request
+3. Change Left side to dq3 Branch and right side side to Branch that we want to pull from.
+4. Write Commit Message and click on Create pull Request.
+5. Go to Files Changed to check if the changes are OK.
+6. Go back to Conversation and click on Squash and Merge.
+7. Delete all the text in the message box and write the changes that you made and click on Confirm Squash and Merge.
+8. Go to local Machine to GIT folder.
+9. Pull the collaboaration main branch.
+10. Switch Branch and go to Remotes and  right click on origin and click on Fetch from origin.
+11. Next in the search bar find dq3 main branch and right click and choose Show log.
+12. Find the changes that you merge and right click on it and choose Cherry pick this commit.
+13. Close all windows and go to GIT directory.
+14. Right click and Puch Collaboration Main Branch.
+15. GO to Synapse Collaboration Main Branch and Publish the changes.
